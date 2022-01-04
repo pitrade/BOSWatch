@@ -7,10 +7,9 @@ feel free to edit to yout own plugin
 please edit theese desciption, the @author-Tag and the @requires-Tag
 For more information take a look into the other plugins
 
-@author: Jens Herrmann
-@author: Bastian Schroll
+@author: Marc Hinterthaner
 
-@requires: none
+@requires: Feuersoftware-Configuration has to be set in the config.ini
 """
 
 #
